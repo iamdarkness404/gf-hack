@@ -15,9 +15,7 @@
           <br/>
             <b>Note:</b> gf -hack
 gf-hack
-<p align="center">
-<a href="https://github.com/iamdarness404"><img title=" iamdarness404 " src="https://github-readme-stats.vercel.app/api?username=iamdarness404&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+
 
 
 <p align="center">
