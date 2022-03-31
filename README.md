@@ -8,6 +8,12 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝘐+𝘈𝘔+𝘋𝘈𝘙𝘒+𝘕𝘌𝘚𝘚)](https://git.io/typing-svg)
+
+<br/>
+      <a href="https://github.com/iamdarkness404/github-readme-stats"><img alt="iamdarkness404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamdarkness404&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/iamdarkness404/github-readme-stats"><img alt="iamdarkness404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdarkness404&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+          <br/>
+            <b>Note:</b> gf -hack
 gf-hack
 <p align="center">
 <a href="https://github.com/iamdarness404"><img title=" iamdarness404 " src="https://github-readme-stats.vercel.app/api?username=iamdarness404&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
