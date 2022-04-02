@@ -51,7 +51,7 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Dark-Cyber-07/SH-UID
+git clone https://github.com/iamdarkness404/gf-hack
 Note: (This Tools Are funy🐸,  )
 
 
